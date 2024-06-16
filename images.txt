@@ -21,3 +21,4 @@ busybox:latest
 redis:alpine
 prom/prometheus:v2.51.1
 ghcr.io/prometheus-operator/prometheus-config-reloader:v0.72.0
+docker.io/jaegertracing/all-in-one:1.56
